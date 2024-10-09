@@ -1,0 +1,107 @@
+[
+        {
+            "name": "Azerbaijan",
+            "flagImageName": "azerbaijan",
+            "cities": [
+                {
+                    "name": "Baku",
+                    "imageName": "bakuImage",
+                    "description": "Baku is the capital and largest city of Azerbaijan, situated on the coast of the Caspian Sea. It is a vibrant metropolis where history and modernity blend seamlessly. Known for its ancient architecture, rich cultural heritage, and rapid development, Baku is a unique city that combines old-world charm with contemporary urban design.Baku is the capital and largest city of Azerbaijan, situated on the coast of the Caspian Sea. It is a vibrant metropolis where history and modernity blend seamlessly. Known for its ancient architecture, rich cultural heritage, and rapid development, Baku is a unique city that combines old-world charm with contemporary urban design.Baku is the capital and largest city of Azerbaijan, situated on the coast of the Caspian Sea. It is a vibrant metropolis where history and modernity blend seamlessly. Known for its ancient architecture, rich cultural heritage, and rapid development, Baku is a unique city that combines old-world charm with contemporary urban design.Baku is the capital and largest city of Azerbaijan, situated on the coast of the Caspian Sea. It is a vibrant metropolis where history and modernity blend seamlessly. Known for its ancient architecture, rich cultural heritage, and rapid development, Baku is a unique city that combines old-world charm with contemporary urban design.Baku is the capital and largest city of Azerbaijan, situated on the coast of the Caspian Sea. It is a vibrant metropolis where history and modernity blend seamlessly. Known for its ancient architecture, rich cultural heritage, and rapid development, Baku is a unique city that combines old-world charm with contemporary urban design."
+                },
+                {
+                    "name": "Ganja",
+                    "imageName": "ganjaImage",
+                    "description": "Ganja, Azerbaijan’s second-largest city, is located in the western part of the country and holds significant historical and cultural importance. Established over a thousand years ago, it has served as a major hub throughout various periods, including during the medieval era when it was a center for trade and culture. Ganja is famous as the birthplace of the renowned Persian poet, Nizami Ganjavi.The city has a rich architectural heritage, featuring landmarks like the Nizami Mausoleum and Javad Khan Street, reflecting its deep historical roots. Ganja has also been influenced by various empires, from the Persian to the Russian Empire, giving it a diverse cultural background.In modern times, Ganja plays a key role in Azerbaijan’s economy, particularly in the agriculture and manufacturing sectors. The city is also home to Ganja State University and several cultural institutions that celebrate its heritage.Surrounded by beautiful natural landscapes, including the nearby Goygol Lake, Ganja is a blend of history, culture, and nature, making it a noteworthy destination within Azerbaijan. Ganja has also been influenced by various empires, from the Persian to the Russian Empire, giving it a diverse cultural background.In modern times, Ganja plays a key role in Azerbaijan’s economy, particularly in the agriculture and manufacturing sectors. The city is also home to Ganja State University and several cultural institutions that celebrate its heritage.Surrounded by beautiful natural landscapes, including the nearby Goygol Lake, Ganja is a blend of history, culture, and nature, making it a noteworthy destination within Azerbaijan."
+                },
+                {
+                    "name": "Sumqayit",
+                    "imageName": "sumqayitImage",
+                    "description": "Sumgayit is the third-largest city in Azerbaijan, located about 30 kilometers northwest of Baku, along the Caspian Sea coast. Established in 1949, it is a relatively young city compared to others in Azerbaijan, built primarily as an industrial hub during the Soviet era.The city is known for its large industrial base, especially in chemicals, metallurgy, and machinery, which have played a key role in Azerbaijan's economy. Despite its industrial focus, Sumgayit has been making efforts in recent years to improve environmental conditions and develop more green spaces.Sumgayit also has cultural landmarks like the Heydar Aliyev Park and the Sumgayit State Drama Theatre. The Seaside Boulevard offers a scenic coastal view, adding recreational value to the city. With a focus on modernization, the city is investing in infrastructure and urban development, making it an increasingly attractive place for both industry and residents. Sumgayit’s proximity to Baku also makes it an important satellite city, contributing to the overall growth of the region. Despite its industrial focus, Sumgayit has been making efforts in recent years to improve environmental conditions and develop more green spaces.Sumgayit also has cultural landmarks like the Heydar Aliyev Park and the Sumgayit State Drama Theatre. The Seaside Boulevard offers a scenic coastal view, adding recreational value to the city. With a focus on modernization, the city is investing in infrastructure and urban development, making it an increasingly attractive place for both industry and residents. Sumgayit’s proximity to Baku also makes it an important satellite city, contributing to the overall growth of the region."
+                }
+            ]
+        },
+        {
+            "name": "Turkiye",
+            "flagImageName": "turkiye",
+            "cities": [
+                {
+                    "name": "Istanbul",
+                    "imageName": "istanbulImage",
+                    "description": "Istanbul is a historic city in Turkey, straddling Europe and Asia across the Bosphorus Strait."
+                },
+                {
+                    "name": "Ankara",
+                    "imageName": "ankaraImage",
+                    "description": "Ankara is the capital of Turkey."
+                },
+                {
+                    "name": "Izmir",
+                    "imageName": "izmirImage",
+                    "description": "Izmir is a major port city on the Aegean coast."
+                }
+            ]
+        },
+        {
+            "name": "Fransa",
+            "flagImageName": "fransa",
+            "cities": [
+                {
+                    "name": "Paris",
+                    "imageName": "parisImage",
+                    "description": "Paris is the capital of France, famous for its culture, art, and landmarks."
+                },
+                {
+                    "name": "Lyon",
+                    "imageName": "lyonImage",
+                    "description": "Lyon is known for its historical and architectural landmarks."
+                },
+                {
+                    "name": "Marseille",
+                    "imageName": "marseilleImage",
+                    "description": "Marseille is a port city in southern France."
+                }
+            ]
+        },
+        {
+            "name": "Italy",
+            "flagImageName": "italy",
+            "cities": [
+                {
+                    "name": "Rome",
+                    "imageName": "romeImage",
+                    "description": "Rome is the capital of Italy, known for its ancient history and architecture."
+                },
+                {
+                    "name": "Milan",
+                    "imageName": "milanImage",
+                    "description": "Milan is Italy's financial hub and a global capital of fashion."
+                },
+                {
+                    "name": "Naples",
+                    "imageName": "naplesImage",
+                    "description": "Naples is a historic city located near the famous Mount Vesuvius."
+                }
+            ]
+        },
+        {
+            "name": "Netherland",
+            "flagImageName": "netherland",
+            "cities": [
+                {
+                    "name": "Amsterdam",
+                    "imageName": "amsterdamImage",
+                    "description": "Amsterdam is known for its artistic heritage, elaborate canal system and narrow houses."
+                },
+                {
+                    "name": "Rotterdam",
+                    "imageName": "rotterdamImage",
+                    "description": "Rotterdam is known for its modern architecture and vibrant cultural scene."
+                },
+                {
+                    "name": "The Hague",
+                    "imageName": "thehagueImage",
+                    "description": "The Hague is the seat of the Dutch government and home to the U.N.'s International Court of Justice."
+                }
+            ]
+        }
+]
